@@ -31,7 +31,7 @@ jobs:
       - run:
           name: Deploy Main to Heroku
           command: |
-            git push https://heroku:$HEROKU_API_KEY@git.heroku.com/$ricardoianpadilla.git main
+            git push https://heroku:$56ad6920-0508-4b60-bc81-422c9d68904e@git.heroku.com/$ricardoianpadilla.git main
 
 workflows:
   version: 2
